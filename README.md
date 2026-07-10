@@ -1,5 +1,4 @@
-project URL: https://github.com/gurzusilviuandrei/Tabs-JavaScript-Practice
-
+https://github.com/gurzusilviuandrei/Tabs-JavaScript-Practice
 --Start Of The Project-- V.0  (08/07/2026)
 
 
