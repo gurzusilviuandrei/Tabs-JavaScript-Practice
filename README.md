@@ -1,4 +1,4 @@
-https://github.com/gurzusilviuandrei/Tabs-JavaScript-Practice
+https://roadmap.sh/projects/simple-tabs
 --Start Of The Project-- V.0  (08/07/2026)
 
 
